@@ -8,7 +8,7 @@ while (true) {
         rank = "Ferro";
     }
     else if (experiencia > 1000 && experiencia <= 2000 ) {
-        rank = "Bronse";
+        rank = "Bronze";
     }
     else if (experiencia > 2000 && experiencia <=  5000) {
         rank = "Prata";
