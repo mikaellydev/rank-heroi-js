@@ -34,4 +34,3 @@ Este repositório apresenta um sistema de classificação de heróis baseado na 
 
 Feito com ❤️ por MikaellyDev  
 Contribuições são bem-vindas! 🚀✨  
-```
